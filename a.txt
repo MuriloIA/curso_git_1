@@ -1,1 +1,3 @@
 Testando uma atualização de arquivo.
+
+Auteração feita pelo Autor 2.
